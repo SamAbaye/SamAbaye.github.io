@@ -4018,4 +4018,14 @@ input, select, textarea {
     justify-content: center; /* Center aligns the button */
     gap: 1rem; /* Adds spacing between stacked buttons if you add more */
 }
-
+.profile-pic {
+	width: 150px;
+	height: 150px;
+	margin-bottom: 10px;
+	margin-left: 70px;
+	overflow: hidden;
+	border-radius: 50%;
+	object-fit: cover;
+	border: 2px solid #ddd;
+  }
+  
